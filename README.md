@@ -104,14 +104,14 @@
 
 ## **🔥 Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bondadaakash&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbondada1234&layout=compact&theme=radical" alt="Top Languages" width="400px"/>
 </p>
 
 ---
 
 ## **📈 Contributions**
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bondadaakash&theme=radical" alt="GitHub Contributions"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akashbondada1234&theme=radical" alt="GitHub Contributions"/>
 </p>
 
 ---
