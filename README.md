@@ -96,8 +96,8 @@
 
 ## **📊 GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bondadaakash&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bondadaakash&theme=radical" alt="GitHub Streak" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bondadaakash1234&show_icons=true&theme=radical" alt="GitHub Stats" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bondadaakash1234&theme=radical" alt="GitHub Streak" width="400px"/>
 </p>
 
 ---
