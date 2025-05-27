@@ -64,6 +64,7 @@
 [![Servlets](https://img.shields.io/badge/Servlets-Orange?style=for-the-badge&logo=apachetomcat&logoColor=white&color=F48024)](https://www.oracle.com/java/technologies/java-servlet.html)
 [![Spring MVC](https://img.shields.io/badge/Spring_MVC-BrightGreen?style=for-the-badge&logo=spring&logoColor=white&color=6DB33F)](https://spring.io/projects/spring-framework)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-Blue?style=for-the-badge&logo=spring&logoColor=white&color=007396)](https://spring.io/projects/spring-security)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-F58220?style=for-the-badge&logo=apacheairflow&logoColor=white&color=F58220)](https://en.wikipedia.org/wiki/Machine_learning)
 
 
 ---
