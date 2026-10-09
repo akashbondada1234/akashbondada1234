@@ -1,3 +1,5 @@
+![GitHub ASCII Card](./dark_mode.svg)
+---
 <h1 align="center">Hi 👋, I'm Bondada Akash</h1>
 
 <h3 align="center">
